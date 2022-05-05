@@ -1,2 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=soft&textBG=true&text=Gstars&)
-![header](https://capsule-render.vercel.app/api?type=soft&color=_custom_gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:33FFC6,100:4DFF33&text=Gstars&height=300&fontSize=100&fontAlignY=50&animation=scaleIn&desc=Welcome%20to__________________Git%20Hub&descSize=40&descAlign=45&descAlignY=60)
