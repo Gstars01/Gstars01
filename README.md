@@ -40,4 +40,5 @@
   <img alt="NVIDIA" src ="https://img.shields.io/badge/NVIDIA-76b900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=white"/>                        
 </div align="center">
 <hr>
-[![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gstars01)]
+
+(https://github-readme-stats.vercel.app/api?username=Gstars01)
