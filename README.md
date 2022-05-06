@@ -41,4 +41,4 @@
 </div align="center">
 <hr>
 
-(https://github-readme-stats.vercel.app/api?username=Gstars01)
+https://github-readme-stats.vercel.app/api?username=Gstars01
