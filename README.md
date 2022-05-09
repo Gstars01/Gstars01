@@ -10,7 +10,7 @@
 </div align="center">
 <hr>
 <div align="center">
-   <h2>⌨️My Programing Language ⌨️</h2>
+   <h3>⌨️My Programing Language ⌨️</h3>
 </div>
 <div align="center">
    <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
@@ -21,7 +21,7 @@
 </div align="center">
 <hr>
 <div align="center">
-  🔧 My Tools 🔨
+   <h3>🔧 My Tools 🔨</h3>
 </div align="center">
 <div align="center">
    <img alt="intelliJ IDEA" src ="https://img.shields.io/badge/intelliJ-000000.svg?&style=for-the-badge&logo=intelliJ IDEA&logoColor=white"/>
@@ -31,7 +31,7 @@
 </div align="center">
 <hr>
 <div align="center">
- 🖥️ My Equipment 💻
+   <h3>🖥️ My Equipment 💻</h3>
 </div align="center">
 <div align="center">
   <img alt="ASUS" src ="https://img.shields.io/badge/ASUS-000000.svg?&style=for-the-badge&logo=ASUS&logoColor=white"/>
