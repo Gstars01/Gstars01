@@ -10,7 +10,7 @@
 </div align="center">
 <hr>
 <div align="center">
-  ⌨️My Programing Language ⌨️
+   <h1>⌨️My Programing Language ⌨️</h1>
 </div>
 <div align="center">
    <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
