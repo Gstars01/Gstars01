@@ -38,7 +38,7 @@
 </div align="center">
 <div align="center">
   <a href="https://www.asus.com/kr/Laptops/For-Home/Zenbook/Zenbook-Duo-14-UX482/"><img alt="ASUS" src ="https://img.shields.io/badge/ASUS-000000.svg?&style=for-the-badge&logo=ASUS&logoColor=white"/>
-  <a href="[https://www.samsung.com/sec/smartphones/galaxy-fold-sm-f907/SM-F907NZSAKOO/](https://www.samsung.com/sec/smartphones/galaxy-s/)"><img alt="Samsung" src ="https://img.shields.io/badge/Samsung-1428a0.svg?&style=for-the-badge&logo=Samsung&logoColor=white"/>
+  <a href="https://www.samsung.com/sec/smartphones/galaxy-s/"><img alt="Samsung" src ="https://img.shields.io/badge/Samsung-1428a0.svg?&style=for-the-badge&logo=Samsung&logoColor=white"/>
   <a href="https://www.intel.co.kr/content/www/kr/ko/products/sku/208662/intel-core-i71165g7-processor-12m-cache-up-to-4-70-ghz/specifications.html"><img alt="Intel" src ="https://img.shields.io/badge/Intel-0071c5.svg?&style=for-the-badge&logo=Intel&logoColor=white"/>
   <a href="https://www.nvidia.com/ko-kr/geforce/graphics-cards/30-series/rtx-3050/"><img alt="NVIDIA" src ="https://img.shields.io/badge/NVIDIA-76b900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=white"/>                        
 </div align="center">
