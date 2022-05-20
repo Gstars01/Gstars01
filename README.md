@@ -26,6 +26,7 @@
 <div align="center">
    <img alt="intelliJ IDEA" src ="https://img.shields.io/badge/intelliJ-000000.svg?&style=for-the-badge&logo=intelliJ IDEA&logoColor=white"/>
    <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=CLion&logoColor=white"/>
+   <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"/>
    <img alt="eclipse IDE" src ="https://img.shields.io/badge/eclipse-2c2255.svg?&style=for-the-badge&logo=eclipse IDE&logoColor=white"/>
   <img alt="VisualStudio" src ="https://img.shields.io/badge/VS-5c2d91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
   <img alt="VisualStudioCode" src ="https://img.shields.io/badge/VSC-007acc.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
