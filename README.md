@@ -10,9 +10,10 @@
 </div align="center">
 <hr>
 <div align="center">
-   <h3>⌨️My Programing Language ⌨️</h3>
+   <h3>⌨️My skill ⌨️</h3>
 </div>
 <div align="center">
+   <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
    <a href="https://www.java.com/ko/"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
    <a href="https://www.w3.org/TR/CSS21/"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
    <a href="https://www.python.org/"><img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
