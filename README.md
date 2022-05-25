@@ -49,4 +49,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gstars01&show_icons=true&theme=chartreuse-dark)](https://github.com/Gstars01/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gstars01&layout=compact)](https://github.com/Gstars01/github-readme-stats)
 <hr>
-     <h3>thank you </h3>
+     <h3>thank you ro read my read me</h3>
