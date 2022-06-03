@@ -36,7 +36,7 @@
 </div align="center">
 <hr>
 <div align="center">
-   <h3>🖥️ My Equipment_💻</h3>
+   <h3>🖥️_My Equipment_💻</h3>
 </div align="center">
 <div align="center">
   <a href="https://www.asus.com/kr/Laptops/For-Home/Zenbook/Zenbook-Duo-14-UX482/"><img alt="ASUS" src ="https://img.shields.io/badge/ASUS-000000.svg?&style=for-the-badge&logo=ASUS&logoColor=white"/>
