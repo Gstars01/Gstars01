@@ -45,8 +45,6 @@
   <a href="https://www.nvidia.com/ko-kr/geforce/graphics-cards/40-series/rtx-4070-family/"><img alt="NVIDIA" src ="https://img.shields.io/badge/NVIDIA-76b900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=white"/>
 </div align="center">
 <hr>
-<img src="https://img.shields.io/badge/3D%20Lawn-4CAF50?style=for-the-badge&logo=grass&logoColor=white"/>
-<hr>
      
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gstars01&show_icons=true&theme=chartreuse-dark)](https://github.com/Gstars01/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gstars01&layout=compact)](https://github.com/Gstars01/github-readme-stats)
