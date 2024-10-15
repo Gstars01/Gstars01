@@ -42,7 +42,7 @@
   <a href="https://nzxt.com/?srsltid=AfmBOoqZXqi_tR0kt94fCX6E73eISC02tRUSUgLPVExvsNocqwoLDKjg"><img src="https://img.shields.io/badge/NZXT-990099?style=for-the-badge&logo=nzxt&logoColor=white"/>
   <a href="https://www.samsung.com/sec/smartphones/galaxy-s/"><img alt="Samsung" src ="https://img.shields.io/badge/Samsung-1428a0.svg?&style=for-the-badge&logo=Samsung&logoColor=white"/>
   <a href="https://www.amd.com/ko/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7800x3d.html"><img src="https://img.shields.io/badge/Ryzen-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
-  <a href="https://www.nvidia.com/ko-kr/geforce/graphics-cards/30-series/rtx-3050/"><img alt="NVIDIA" src ="https://img.shields.io/badge/NVIDIA-76b900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=white"/>
+  <a href="https://www.nvidia.com/ko-kr/geforce/graphics-cards/40-series/rtx-4070-family/"><img alt="NVIDIA" src ="https://img.shields.io/badge/NVIDIA-76b900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=white"/>
 </div align="center">
 <hr>
      
