@@ -8,7 +8,7 @@
      <a href="https://open.kakao.com/o/si0u1hB"><img src="https://img.shields.io/badge/KakaoTalk-ffcd00?style=flat-square&logo=KakaoTalk&logoColor=white&link=https://open.kakao.com/o/si0u1hB"/></a>
   <a href="https://www.instagram.com/hyun_nu03/"><img src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyun_nu03/"/></a>
 </div align="center">
-## email : khw4986@gmail.com
+
 <hr>
 <div align="center">
    <h3>⌨️_My_skill_⌨️</h3>
