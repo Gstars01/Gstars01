@@ -11,7 +11,7 @@
 
 <hr>
 <div align="center">
-   <h3>⌨️_My_skill_⌨️</h3>
+   <h3>STACK</h3>
 </div>
 <div align="center">
    
@@ -24,7 +24,7 @@
 </div align="center">
 <hr>
 <div align="center">
-   <h3>🔧_My_Tools_🔨</h3>
+   <h3>TOOLS🔨</h3>
 </div align="center">
 <div align="center">
    <a href="https://www.jetbrains.com/clion/promo/?source=google&medium=cpc&campaign=11960744627&term=%2Bclion&gclid=Cj0KCQjw-JyUBhCuARIsANUqQ_LB2Aa2iaVB_oyOcFdvqybBZvez8RgnVtB68QH_YlQkGk8KtZhx7fgaAo3HEALw_wcB"><img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=CLion&logoColor=white"/>
@@ -35,7 +35,7 @@
 </div align="center">
 <hr>
 <div align="center">
-   <h3>🖥️_My_Equipment_💻</h3>
+   <h3>EQUIPMENT</h3>
 </div align="center">
 <div align="center">
   <a href="https://nzxt.com/?srsltid=AfmBOoqZXqi_tR0kt94fCX6E73eISC02tRUSUgLPVExvsNocqwoLDKjg"><img src="https://img.shields.io/badge/NZXT-990099?style=for-the-badge&logo=nzxt&logoColor=white"/>
