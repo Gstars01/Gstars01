@@ -27,10 +27,8 @@
    <h3>🔧_My_Tools_🔨</h3>
 </div align="center">
 <div align="center">
-   <a href="https://www.jetbrains.com/ko-kr/idea/download/#section=windows"><img alt="intelliJ IDEA" src ="https://img.shields.io/badge/intelliJ-000000.svg?&style=for-the-badge&logo=intelliJ IDEA&logoColor=white"/>
    <a href="https://www.jetbrains.com/clion/promo/?source=google&medium=cpc&campaign=11960744627&term=%2Bclion&gclid=Cj0KCQjw-JyUBhCuARIsANUqQ_LB2Aa2iaVB_oyOcFdvqybBZvez8RgnVtB68QH_YlQkGk8KtZhx7fgaAo3HEALw_wcB"><img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=CLion&logoColor=white"/>
    <a href="https://www.jetbrains.com/ko-kr/webstorm/"><img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"/>
-   <a href="https://www.eclipse.org/downloads/"><img alt="eclipse IDE" src ="https://img.shields.io/badge/eclipse-2c2255.svg?&style=for-the-badge&logo=eclipse IDE&logoColor=white"/>
    <a href="https://visualstudio.microsoft.com/ko/"><img alt="VisualStudio" src ="https://img.shields.io/badge/VS-5c2d91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
    <a href="https://code.visualstudio.com/"><img alt="VisualStudioCode" src ="https://img.shields.io/badge/VSC-007acc.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
   
