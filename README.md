@@ -23,27 +23,4 @@
    <a href="https://www.w3.org/"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 </div align="center">
 <hr>
-<div align="center">
-   <h3>TOOLS🔨</h3>
-</div align="center">
-<div align="center">
-   <a href="https://www.jetbrains.com/clion/promo/?source=google&medium=cpc&campaign=11960744627&term=%2Bclion&gclid=Cj0KCQjw-JyUBhCuARIsANUqQ_LB2Aa2iaVB_oyOcFdvqybBZvez8RgnVtB68QH_YlQkGk8KtZhx7fgaAo3HEALw_wcB"><img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=CLion&logoColor=white"/>
-   <a href="https://www.jetbrains.com/ko-kr/webstorm/"><img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"/>
-   <a href="https://visualstudio.microsoft.com/ko/"><img alt="VisualStudio" src ="https://img.shields.io/badge/VS-5c2d91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
-   <a href="https://code.visualstudio.com/"><img alt="VisualStudioCode" src ="https://img.shields.io/badge/VSC-007acc.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
-  
-</div align="center">
 <hr>
-<div align="center">
-   <h3>EQUIPMENT</h3>
-</div align="center">
-<div align="center">
-  <a href="https://nzxt.com/?srsltid=AfmBOoqZXqi_tR0kt94fCX6E73eISC02tRUSUgLPVExvsNocqwoLDKjg"><img src="https://img.shields.io/badge/NZXT-990099?style=for-the-badge&logo=nzxt&logoColor=white"/>
-  <a href="https://www.samsung.com/sec/smartphones/galaxy-s/"><img alt="Samsung" src ="https://img.shields.io/badge/Samsung-1428a0.svg?&style=for-the-badge&logo=Samsung&logoColor=white"/>
-  <a href="https://www.amd.com/ko/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7800x3d.html"><img src="https://img.shields.io/badge/Ryzen-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
-  <a href="https://www.nvidia.com/ko-kr/geforce/graphics-cards/40-series/rtx-4070-family/"><img alt="NVIDIA" src ="https://img.shields.io/badge/NVIDIA-76b900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=white"/>
-</div align="center">
-<hr>
-     
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gstars01&show_icons=true&theme=chartreuse-dark)](https://github.com/Gstars01/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gstars01&layout=compact)](https://github.com/Gstars01/github-readme-stats)
